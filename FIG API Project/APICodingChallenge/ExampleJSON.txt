@@ -1,0 +1,29 @@
+//Team JSON
+{
+    "Name": "Steelers",
+    "City": "Pittsburgh",
+    "Players": []
+}
+
+{
+    "Name": "Browns",
+    "City": "Cleveland",
+    "Players": []
+}
+
+
+
+
+
+//Player JSON
+{
+    "FirstName": "Kenny",
+    "LastName": "Pickett",
+    "TeamId": 1
+}
+
+{
+    "FirstName": "Najee",
+    "LastName": "Harris",
+    "TeamId": 1
+}
